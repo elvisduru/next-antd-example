@@ -1,4 +1,4 @@
-import "antd/dist/antd.css";
+require("../styles/variables.less");
 import "../styles/globals.css";
 
 function MyApp({ Component, pageProps }) {
